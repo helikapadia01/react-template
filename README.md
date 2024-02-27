@@ -1,2 +1,2 @@
 # react-template
-React.js Template Project
+Create a React.js Project using this template
